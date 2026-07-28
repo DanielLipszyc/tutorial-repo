@@ -1,3 +1,3 @@
 print("hello world")
 
-print("Branch message")
+print("Commit in VS Code")
