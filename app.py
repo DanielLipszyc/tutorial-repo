@@ -1,3 +1,3 @@
 print("hello world")
 
-print("Changed on the Web")
+print("Commit in VS Code")
